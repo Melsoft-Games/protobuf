@@ -1,3 +1,3 @@
 package main
 
-import _ "gizmo/core/protobuf/protoc-gen-go/micro"
+import _ "github.com/Melsoft-Games/protobuf/protoc-gen-go/micro"
